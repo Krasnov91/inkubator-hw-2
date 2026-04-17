@@ -89,12 +89,12 @@ select {
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
-  padding: 0 0 0 20px;
+  padding: 0 20px;
 }
 
 .books-list {
   /* Стили для нумерованного списка во второй секции */
-  padding: 0 0 0 20px;
+  padding: 0 20px;
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
