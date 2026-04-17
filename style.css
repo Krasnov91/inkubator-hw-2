@@ -115,6 +115,7 @@ select {
   border-radius: 5px;
   color: #303030;
   margin-right: 9px;
+  font-size: 16px;
 }
 
 .btn {
@@ -144,7 +145,7 @@ table {
 th,
 td {
   /* Стили для ячеек таблицы */
-  padding: 15px 12px;
+  padding: 12px 15px;
 }
 
 footer {
@@ -157,4 +158,5 @@ footer {
   /* Стили для футера */
   color: #2965f1;
   text-decoration: none;
+  font-size: 14px;
 }
